@@ -1,1 +1,4 @@
-Coucou
+/**
+This is a test to see if doxygen parses mainpage.dox correctly.
+
+*/
