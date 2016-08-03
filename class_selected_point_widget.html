@@ -103,10 +103,10 @@ Inheritance diagram for SelectedPointWidget:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6973c27e249b2956b820cc67d8e01353"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a6973c27e249b2956b820cc67d8e01353">SelectedPointWidget</a> (vtkSmartPointer&lt; vtkPolyData &gt; points_polydata, vtkSmartPointer&lt; vtkPolyData &gt; selected_points_polydata)</td></tr>
-<tr class="separator:a6973c27e249b2956b820cc67d8e01353"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd1322240157289461a8e97b744519c5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#afd1322240157289461a8e97b744519c5">populate</a> ()</td></tr>
-<tr class="separator:afd1322240157289461a8e97b744519c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac1f4fc41153203a0983a40052ed9ca6c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#ac1f4fc41153203a0983a40052ed9ca6c">SelectedPointWidget</a> (vtkSmartPointer&lt; vtkPolyData &gt; points_polydata, vtkSmartPointer&lt; vtkPolyData &gt; selected_points_polydata, bool *widget_is_open, vtkSmartPointer&lt; <a class="el" href="class_interactor_style.html">InteractorStyle</a> &gt; interactor_style)</td></tr>
+<tr class="separator:ac1f4fc41153203a0983a40052ed9ca6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69cdf53151b25eeded4ffa98be33d4e0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a69cdf53151b25eeded4ffa98be33d4e0">populate_vertex_table</a> ()</td></tr>
+<tr class="separator:a69cdf53151b25eeded4ffa98be33d4e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -137,11 +137,14 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_dire
 <tr class="memitem:a55451a9a8351fa26bffd964d20422edc"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a55451a9a8351fa26bffd964d20422edc"></a>
 QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>interpolation_type_list</b></td></tr>
 <tr class="separator:a55451a9a8351fa26bffd964d20422edc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a01262c124ef8dca1f80d929b5b7df70d"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a01262c124ef8dca1f80d929b5b7df70d"></a>
+QPushButton *&#160;</td><td class="memItemRight" valign="bottom"><b>button_show_vertex_table</b></td></tr>
+<tr class="separator:a01262c124ef8dca1f80d929b5b7df70d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Declaration of the <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> class. <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> refers to the widget displayed on the screen when the user selects at least one vertex of the displayed shape model by means of the rectangular box selector. The widget that is then displayed lists the IDs of the selected vertices, as well as a choice of possible geometric transforms to be applied to them NOTE: for now, the only possible transform (homothetic transform) is hardcoded </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a6973c27e249b2956b820cc67d8e01353"></a>
+<a class="anchor" id="ac1f4fc41153203a0983a40052ed9ca6c"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
@@ -155,7 +158,19 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>interpolation_
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td>
-          <td class="paramname"><em>selected_points_polydata</em>&#160;</td>
+          <td class="paramname"><em>selected_points_polydata</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool *&#160;</td>
+          <td class="paramname"><em>widget_is_open</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">vtkSmartPointer&lt; <a class="el" href="class_interactor_style.html">InteractorStyle</a> &gt;&#160;</td>
+          <td class="paramname"><em>interactor_style</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -175,12 +190,12 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>interpolation_
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a class="anchor" id="afd1322240157289461a8e97b744519c5"></a>
+<a class="anchor" id="a69cdf53151b25eeded4ffa98be33d4e0"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void SelectedPointWidget::populate </td>
+          <td class="memname">void SelectedPointWidget::populate_vertex_table </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
