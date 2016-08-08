@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['selectedpointwidget',['SelectedPointWidget',['../class_selected_point_widget.html',1,'SelectedPointWidget'],['../class_selected_point_widget.html#a2d312134283751b2454e6a968e60204b',1,'SelectedPointWidget::SelectedPointWidget()']]],
+  ['selectedpointwidget',['SelectedPointWidget',['../class_selected_point_widget.html',1,'SelectedPointWidget'],['../class_selected_point_widget.html#a835bef896581153cfd374de8bddab7b2',1,'SelectedPointWidget::SelectedPointWidget()']]],
   ['selection_5fwidget_5fis_5fopen',['selection_widget_is_open',['../class_main_window.html#ae27da44ce559153d36454d616bb07e92',1,'MainWindow']]],
   ['set_5factors_5fvisibility',['set_actors_visibility',['../class_main_window.html#a83e5e271fb55608c46856562453d8e99',1,'MainWindow']]],
   ['set_5fcurrent_5fmode',['set_current_mode',['../class_interactor_style.html#ad9dcf7e1d3eade05cc9d3a08bf16217a',1,'InteractorStyle']]],

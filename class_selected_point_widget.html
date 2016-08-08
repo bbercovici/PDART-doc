@@ -103,8 +103,8 @@ Inheritance diagram for SelectedPointWidget:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2d312134283751b2454e6a968e60204b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a2d312134283751b2454e6a968e60204b">SelectedPointWidget</a> ()</td></tr>
-<tr class="separator:a2d312134283751b2454e6a968e60204b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a835bef896581153cfd374de8bddab7b2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a835bef896581153cfd374de8bddab7b2">SelectedPointWidget</a> (QWidget *parent)</td></tr>
+<tr class="separator:a835bef896581153cfd374de8bddab7b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a89e04c5192583d221c85335215e69ccc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a89e04c5192583d221c85335215e69ccc">set_data</a> (vtkSmartPointer&lt; <a class="el" href="class_interactor_style.html">InteractorStyle</a> &gt; interactor_style)</td></tr>
 <tr class="separator:a89e04c5192583d221c85335215e69ccc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad292301194da6a15d0a4b1db9aad5477"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#ad292301194da6a15d0a4b1db9aad5477">highlight_selected_cells</a> ()</td></tr>
@@ -158,19 +158,25 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_sele
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Declaration of the <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> class. <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> refers to the widget displayed on the screen when the user selects at least one vertex of the displayed shape model by means of the rectangular box selector. The widget that is then displayed lists the IDs of the selected vertices, as well as a choice of possible geometric transforms to be applied to them NOTE: for now, the only possible transform (homothetic transform) is hardcoded </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a2d312134283751b2454e6a968e60204b"></a>
+<a class="anchor" id="a835bef896581153cfd374de8bddab7b2"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">SelectedPointWidget::SelectedPointWidget </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">QWidget *&#160;</td>
+          <td class="paramname"><em>parent</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Constructor. </p>
+<p>Constructor. </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">parent</td><td>Pointer to parent widget (here, pointer to instance of <a class="el" href="class_main_window.html">MainWindow</a> ) </td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
