@@ -154,9 +154,6 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>interpolation_
 <tr class="memitem:a8030876001f3e80b8b86d1662dde15c0"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a8030876001f3e80b8b86d1662dde15c0"></a>
 QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_selection_list</b></td></tr>
 <tr class="separator:a8030876001f3e80b8b86d1662dde15c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a01262c124ef8dca1f80d929b5b7df70d"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a01262c124ef8dca1f80d929b5b7df70d"></a>
-QPushButton *&#160;</td><td class="memItemRight" valign="bottom"><b>button_show_vertex_table</b></td></tr>
-<tr class="separator:a01262c124ef8dca1f80d929b5b7df70d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Declaration of the <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> class. <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> refers to the widget displayed on the screen when the user selects at least one vertex of the displayed shape model by means of the rectangular box selector. The widget that is then displayed lists the IDs of the selected vertices, as well as a choice of possible geometric transforms to be applied to them NOTE: for now, the only possible transform (homothetic transform) is hardcoded </p>
@@ -209,8 +206,7 @@ QPushButton *&#160;</td><td class="memItemRight" valign="bottom"><b>button_show_
 </div><div class="memdoc">
 <p>Data Setter The pointer passed as arguments allow the widget to have access to the point properties </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">points_polydata</td><td>Pointer to the vtkPolyData storing the vertices of the shape model </td></tr>
-    <tr><td class="paramname">selected_points_polydata</td><td>Pointer to the vtkPolyData storing the selected vertices of the displayed shape model </td></tr>
+    <tr><td class="paramname">interactor_style</td><td>Pointer to the interactor accessing the shape model currently displayed </td></tr>
   </table>
   </dd>
 </dl>
