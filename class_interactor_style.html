@@ -109,8 +109,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a441fa7b70b39c61768f0d9a8d48faf3c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a441fa7b70b39c61768f0d9a8d48faf3c"></a>
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OnLeftButtonUp</b> ()</td></tr>
 <tr class="separator:a441fa7b70b39c61768f0d9a8d48faf3c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9fc529af649dc1180663d0ce61b4809"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interactor_style.html#ac9fc529af649dc1180663d0ce61b4809">set_points_polydata</a> (vtkSmartPointer&lt; vtkPolyData &gt; points_polydata)</td></tr>
-<tr class="separator:ac9fc529af649dc1180663d0ce61b4809"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a834e6fefb668b480ee61f844a8a970e8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interactor_style.html#a834e6fefb668b480ee61f844a8a970e8">set_all_points_polydata</a> (vtkSmartPointer&lt; vtkPolyData &gt; all_points_polydata)</td></tr>
+<tr class="separator:a834e6fefb668b480ee61f844a8a970e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab0a55222cb9ce93e7f63866eeb3f6a04"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interactor_style.html#ab0a55222cb9ce93e7f63866eeb3f6a04">set_mainwindow</a> (<a class="el" href="class_main_window.html">MainWindow</a> *mainwindow)</td></tr>
 <tr class="separator:ab0a55222cb9ce93e7f63866eeb3f6a04"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3cda3f495ccfaef8cdae480a29b621af"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_main_window.html">MainWindow</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_interactor_style.html#a3cda3f495ccfaef8cdae480a29b621af">get_mainwindow</a> ()</td></tr>
@@ -122,9 +122,9 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OnLeftButtonU
 <tr class="memitem:a7ba4e3fd130a4ee0d82671c516f24dee"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7ba4e3fd130a4ee0d82671c516f24dee"></a>
 vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>get_selected_points_polydata</b> ()</td></tr>
 <tr class="separator:a7ba4e3fd130a4ee0d82671c516f24dee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6404680ea744f68944613f3faff61f5b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6404680ea744f68944613f3faff61f5b"></a>
-vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>get_points_polydata</b> ()</td></tr>
-<tr class="separator:a6404680ea744f68944613f3faff61f5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5253eac3ce6729d1c8a00b27e5c682ba"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a5253eac3ce6729d1c8a00b27e5c682ba"></a>
+vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>get_all_points_polydata</b> ()</td></tr>
+<tr class="separator:a5253eac3ce6729d1c8a00b27e5c682ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
@@ -167,6 +167,28 @@ static <a class="el" href="class_interactor_style.html">InteractorStyle</a> *&#1
 
 </div>
 </div>
+<a class="anchor" id="a834e6fefb668b480ee61f844a8a970e8"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void InteractorStyle::set_all_points_polydata </td>
+          <td>(</td>
+          <td class="paramtype">vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td>
+          <td class="paramname"><em>all_points_polydata</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Enables the interactor to get access to the vtkPolyData storing the shape's vertices </p><dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">points_polydata</td><td>Pointer to the vtkPolyData storing the vertices of the shape model </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a class="anchor" id="ad9dcf7e1d3eade05cc9d3a08bf16217a"></a>
 <div class="memitem">
 <div class="memproto">
@@ -205,28 +227,6 @@ static <a class="el" href="class_interactor_style.html">InteractorStyle</a> *&#1
 <p>Enables the interactor to get access to the GUI's mainwindow </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">points_polydata</td><td>Pointer to the GUI's mainwindow </td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
-<a class="anchor" id="ac9fc529af649dc1180663d0ce61b4809"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void InteractorStyle::set_points_polydata </td>
-          <td>(</td>
-          <td class="paramtype">vtkSmartPointer&lt; vtkPolyData &gt;&#160;</td>
-          <td class="paramname"><em>points_polydata</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<p>Enables the interactor to get access to the vtkPolyData storing the shape's vertices </p><dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">points_polydata</td><td>Pointer to the vtkPolyData storing the vertices of the shape model </td></tr>
   </table>
   </dd>
 </dl>

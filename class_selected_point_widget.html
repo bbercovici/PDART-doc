@@ -109,6 +109,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a89e04c5192583d221c85335215e69ccc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad292301194da6a15d0a4b1db9aad5477"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#ad292301194da6a15d0a4b1db9aad5477">highlight_selected_cells</a> ()</td></tr>
 <tr class="separator:ad292301194da6a15d0a4b1db9aad5477"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9be0414bb76db6e557aa4ee600c25910"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a9be0414bb76db6e557aa4ee600c25910">compute_selected_points_normals</a> ()</td></tr>
+<tr class="separator:a9be0414bb76db6e557aa4ee600c25910"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4c6bf82101aa3a7e99a873ad6a167a58"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_selected_point_widget.html#a4c6bf82101aa3a7e99a873ad6a167a58">reset</a> ()</td></tr>
 <tr class="separator:a4c6bf82101aa3a7e99a873ad6a167a58"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -158,7 +160,7 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_sele
 <tr class="separator:a8030876001f3e80b8b86d1662dde15c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Declaration of the <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> class. <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> refers to the widget displayed on the screen when the user selects at least one vertex of the displayed shape model by means of the rectangular box selector. The widget that is then displayed lists the IDs of the selected vertices, as well as a choice of possible geometric transforms to be applied to them NOTE: for now, the only possible transform (homothetic transform) is hardcoded </p>
+<div class="textblock"><p>Declaration of the <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> class. <a class="el" href="class_selected_point_widget.html">SelectedPointWidget</a> refers to the widget displayed on the screen when the user selects at least one vertex of the displayed shape model by means of the rectangular box selector. The widget that is then displayed lists the IDs of the selected vertices, as well as a choice of possible geometric transforms to be applied to them. A horizontal slider enalbes the user to choose the magnitude of the transform </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a class="anchor" id="a835bef896581153cfd374de8bddab7b2"></a>
 <div class="memitem">
@@ -183,6 +185,22 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_sele
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a class="anchor" id="a9be0414bb76db6e557aa4ee600c25910"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void SelectedPointWidget::compute_selected_points_normals </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Computes the normals at the selected points </p>
+
+</div>
+</div>
 <a class="anchor" id="ad292301194da6a15d0a4b1db9aad5477"></a>
 <div class="memitem">
 <div class="memproto">
@@ -211,7 +229,7 @@ QComboBox *&#160;</td><td class="memItemRight" valign="bottom"><b>transform_sele
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Reset </p>
+<p>Reset the widget by clearing the memory used by the different vtk container members </p>
 
 </div>
 </div>
