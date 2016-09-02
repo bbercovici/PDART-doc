@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['newshapemodeldialog',['NewShapeModelDialog',['../class_new_shape_model_dialog.html',1,'']]]
+  ['selectedpointwidget',['SelectedPointWidget',['../class_selected_point_widget.html',1,'']]]
 ];
