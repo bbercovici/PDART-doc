@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['sbgat_20_28small_20body_20geophysical_20analysis_20tool_29',['SBGAT (Small Body Geophysical Analysis Tool)',['../index.html',1,'']]],
+  ['sbgat',['SBGAT',['../index.html',1,'']]],
   ['selectedpointwidget',['SelectedPointWidget',['../class_selected_point_widget.html',1,'SelectedPointWidget'],['../class_selected_point_widget.html#a835bef896581153cfd374de8bddab7b2',1,'SelectedPointWidget::SelectedPointWidget()']]],
   ['selection_5fwidget_5fis_5fopen',['selection_widget_is_open',['../class_main_window.html#ae27da44ce559153d36454d616bb07e92',1,'MainWindow']]],
   ['set_5factors_5fvisibility',['set_actors_visibility',['../class_main_window.html#a83e5e271fb55608c46856562453d8e99',1,'MainWindow']]],
