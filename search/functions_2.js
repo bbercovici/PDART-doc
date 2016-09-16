@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['highlight_5fselected_5fcells',['highlight_selected_cells',['../class_selected_point_widget.html#ad292301194da6a15d0a4b1db9aad5477',1,'SelectedPointWidget']]]
+  ['get_5fmainwindow',['get_mainwindow',['../class_interactor_style.html#a3cda3f495ccfaef8cdae480a29b621af',1,'InteractorStyle']]],
+  ['get_5frenderer',['get_renderer',['../class_main_window.html#a59b93476bcf592e3c4310bfa7b1c8721',1,'MainWindow']]]
 ];

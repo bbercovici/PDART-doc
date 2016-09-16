@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mainwindow',['MainWindow',['../class_main_window.html#a34c4b4207b46d11a4100c9b19f0e81bb',1,'MainWindow']]]
+  ['highlight_5fselected_5fcells',['highlight_selected_cells',['../class_selected_point_widget.html#ad292301194da6a15d0a4b1db9aad5477',1,'SelectedPointWidget']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['inheritedpicker',['InheritedPicker',['../class_inherited_picker.html',1,'']]],
-  ['interactorstyle',['InteractorStyle',['../class_interactor_style.html',1,'']]]
+  ['highlight_5fselected_5fcells',['highlight_selected_cells',['../class_selected_point_widget.html#ad292301194da6a15d0a4b1db9aad5477',1,'SelectedPointWidget']]]
 ];
