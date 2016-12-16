@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['vtkpolydata_5ftracked',['vtkPolyData_tracked',['../classvtk_poly_data__tracked.html',1,'']]]
+  ['setinputscalingwidget',['SetInputScalingWidget',['../class_set_input_scaling_widget.html',1,'']]],
+  ['shapeinfowidget',['ShapeInfoWidget',['../class_shape_info_widget.html',1,'']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['find_5fblob_5fcenter',['find_blob_center',['../class_selected_point_widget.html#a7defeebe0d268ef8385690e9446b4188',1,'SelectedPointWidget']]]
+  ['find_5fblob_5fcenter',['find_blob_center',['../class_modify_area_widget.html#afcadc0aec39adcfd93ce04f76a5e2c0d',1,'ModifyAreaWidget']]]
 ];

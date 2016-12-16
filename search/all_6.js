@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reset',['reset',['../class_interactor_style.html#a762ff8514c966453381ddf6f58690e1d',1,'InteractorStyle::reset()'],['../class_selected_point_widget.html#a4c6bf82101aa3a7e99a873ad6a167a58',1,'SelectedPointWidget::reset()']]]
+  ['load_5fsurface_5facceleration',['load_surface_acceleration',['../class_asteroid.html#ada228a3d5a3e9428db6c1b274e2ce5f4',1,'Asteroid']]]
 ];

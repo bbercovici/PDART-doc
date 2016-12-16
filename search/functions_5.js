@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['reset',['reset',['../class_interactor_style.html#a762ff8514c966453381ddf6f58690e1d',1,'InteractorStyle::reset()'],['../class_selected_point_widget.html#a4c6bf82101aa3a7e99a873ad6a167a58',1,'SelectedPointWidget::reset()']]]
+  ['mainwindow',['Mainwindow',['../class_mainwindow.html#a9ca049b84f17c87a57b53e418b1c40e3',1,'Mainwindow']]],
+  ['modifyareawidget',['ModifyAreaWidget',['../class_modify_area_widget.html#a67ddc4840c476304b353ac480b854392',1,'ModifyAreaWidget']]]
 ];

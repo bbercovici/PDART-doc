@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['selectedpointwidget',['SelectedPointWidget',['../class_selected_point_widget.html',1,'']]]
+  ['mainwindow',['Mainwindow',['../class_mainwindow.html',1,'']]],
+  ['matrix',['Matrix',['../class_matrix.html',1,'']]],
+  ['modifyareawidget',['ModifyAreaWidget',['../class_modify_area_widget.html',1,'']]]
 ];

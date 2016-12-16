@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sbgat',['SBGAT',['../index.html',1,'']]]
+  ['asteroid',['Asteroid',['../class_asteroid.html',1,'']]]
 ];
