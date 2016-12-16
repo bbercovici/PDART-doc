@@ -84,7 +84,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <li>Run science algorithms (such as gravity field generation, synthetic lightcurve generation,...)</li>
 <li>Facilitate results visualization</li>
 </ul>
-<p>SBGAT supports *.obj shape files restricted to vertex/facets information.</p>
+<p>SBGAT supports *.obj shape files restricted to vertex/facets information with standard vertex numbering (CCW indicates outward normal). There is no need to provide supplemental information such as surface normals since those will be recomputed internally, enforcing data consistency when surface alteration are introduced.</p>
 <p>As of now, dependencies include</p><ul>
 <li>The Visualization Toolkit (VTK), an open-source, freely available software system for 3D computer graphics, image processing, and visualization. It consists of a C++ class library and several interpreted interface layers including Tcl/Tk, Java, and Python (<a href="http://www.vtk.org/">http://www.vtk.org/</a>)</li>
 <li>Qt (/kjuːt/ "cute"), a cross-platform application framework (<a href="https://www.qt.io/">https://www.qt.io/</a>)</li>
