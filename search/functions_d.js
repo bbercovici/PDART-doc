@@ -5,7 +5,6 @@ var searchData=
   ['save_5flightcurve',['save_lightcurve',['../class_s_b_g_a_t___c_o_r_e_1_1_synthetic_observations.html#ab214e926a29736d4b1ca83fc19a5d702',1,'SBGAT_CORE::SyntheticObservations']]],
   ['set_5faction_5fstatus',['set_action_status',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a8b3a90718700540f2e2337ec7d11a63b',1,'SBGAT_GUI::Mainwindow']]],
   ['set_5falbedo',['set_albedo',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#ab150dba3a7d4855ad635b58d974bb4b5',1,'SBGAT_CORE::Facet']]],
-  ['set_5fbackground_5fcolor',['set_background_color',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#ab152ed65d0878c5086cdf0e414d79a51',1,'SBGAT_GUI::Mainwindow']]],
   ['set_5fcoordinates',['set_coordinates',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#a9ebafd538cf6a1737f41551bd26de0e7',1,'SBGAT_CORE::Vertex']]],
   ['set_5fcurrent_5fmode',['set_current_mode',['../class_interactor_style.html#ad9dcf7e1d3eade05cc9d3a08bf16217a',1,'InteractorStyle']]],
   ['set_5fgrav_5facceleration',['set_grav_acceleration',['../class_s_b_g_a_t___c_o_r_e_1_1_facet_results.html#a027c3b66421e6856be4a95b1bdf424b8',1,'SBGAT_CORE::FacetResults']]],
