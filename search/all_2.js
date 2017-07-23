@@ -1,10 +1,8 @@
 var searchData=
 [
   ['check_5fnormals_5fconsistency',['check_normals_consistency',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a0863aeabd2c35b179d01e2993c35f3fa',1,'SBGAT_CORE::ShapeModel']]],
-  ['clear_5fall_5faction',['clear_all_action',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a4cfb4670c93e0b3bc6415ceb0b16e956',1,'SBGAT_GUI::Mainwindow']]],
   ['clear_5fconsole',['clear_console',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#af58c424287799346a6b3d06e61aaad17',1,'SBGAT_GUI::Mainwindow']]],
   ['clear_5fconsole_5faction',['clear_console_action',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a8f14729719115a6b52137267e64b109b',1,'SBGAT_GUI::Mainwindow']]],
-  ['close_5flateral_5fdockwidget',['close_lateral_dockwidget',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a78defe20f13300e6959fc69ba7f20ba4',1,'SBGAT_GUI::Mainwindow']]],
   ['common_5ffacets',['common_facets',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#ae961d1634bdfb0240167bc7ca8a01151',1,'SBGAT_CORE::Vertex']]],
   ['compute_5fdyad',['compute_dyad',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a7b4346421ec7d2bf9ea1efafb55de87e',1,'SBGAT_CORE::Edge']]],
   ['compute_5fglobal_5fpgm_5facceleration',['compute_global_pgm_acceleration',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a2692d37ef8f879bccaba348ec4a04305',1,'SBGAT_GUI::Mainwindow']]],
