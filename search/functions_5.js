@@ -19,6 +19,7 @@ var searchData=
   ['get_5fgrav_5fpotential',['get_grav_potential',['../class_s_b_g_a_t___c_o_r_e_1_1_facet_results.html#a0e7881ee3c7974eb9a9d8a6017ae5da7',1,'SBGAT_CORE::FacetResults']]],
   ['get_5fgrav_5fslope',['get_grav_slope',['../class_s_b_g_a_t___c_o_r_e_1_1_facet_results.html#ac3be372c633b7757ef46733181404772',1,'SBGAT_CORE::FacetResults']]],
   ['get_5finertia',['get_inertia',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a8302c1f08c25ebb8b1ce36a6844ff35c',1,'SBGAT_CORE::ShapeModel']]],
+  ['get_5fmainwindow',['get_mainwindow',['../class_interactor_style.html#a6857e009e22dd59b9c992a685f7393f3',1,'InteractorStyle']]],
   ['get_5fmrp_5ffrom_5fparent',['get_mrp_from_parent',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#a0f25290b2b8b28634d3d98aa9f7ff865',1,'SBGAT_CORE::RefFrame']]],
   ['get_5fname',['get_name',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#a8b7902c928e9fca187e9fd00b154f4d2',1,'SBGAT_CORE::RefFrame']]],
   ['get_5fnedges',['get_NEdges',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a8dad951454c490b299240c69541ad846',1,'SBGAT_CORE::ShapeModel']]],
@@ -28,6 +29,7 @@ var searchData=
   ['get_5fnvertices',['get_NVertices',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#afaeb31a5789aee7a298c548a1911db4c',1,'SBGAT_CORE::ShapeModel']]],
   ['get_5forigin_5ffrom_5fparent',['get_origin_from_parent',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#a1a64b32de6710dd9502bb0a34e239770',1,'SBGAT_CORE::RefFrame']]],
   ['get_5fref_5fframe_5fname',['get_ref_frame_name',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a7e65b35d5d573749e7a954b1a83c4347',1,'SBGAT_CORE::ShapeModel']]],
+  ['get_5frenderer',['get_renderer',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a0c8abfdd2be41b46f25ec3b6753ffcb5',1,'SBGAT_GUI::Mainwindow']]],
   ['get_5fsurface_5farea',['get_surface_area',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a9cce5d9eec1acc7dc3a682da05ab6803',1,'SBGAT_CORE::ShapeModel']]],
   ['get_5fv0',['get_v0',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a4209fba736a03b7a4c9fb7b2f0e96494',1,'SBGAT_CORE::Edge']]],
   ['get_5fv1',['get_v1',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#ae7d052a466582bda1af507b38ba5e9cf',1,'SBGAT_CORE::Edge']]],
@@ -36,5 +38,6 @@ var searchData=
   ['getedge',['getedge',['../class_adjacency___list.html#aeb2da43c411ed0a239798a2a3c883f24',1,'Adjacency_List']]],
   ['getneighbors',['getneighbors',['../class_adjacency___list.html#a59ad0070d2f6fcc2d3b5d86a616ff193',1,'Adjacency_List']]],
   ['getnumv',['getnumv',['../class_adjacency___list.html#afc9a43d2d171801e35c1f45ae6baca93',1,'Adjacency_List']]],
-  ['getvertex',['getvertex',['../class_adjacency___list.html#a183c55c71c959b90164a334687a76cc2',1,'Adjacency_List']]]
+  ['getvertex',['getvertex',['../class_adjacency___list.html#a183c55c71c959b90164a334687a76cc2',1,'Adjacency_List']]],
+  ['grab_5farea',['grab_area',['../class_interactor_style.html#ae9ae5a94d7fd6ff79ac7e264bf09746c',1,'InteractorStyle']]]
 ];

@@ -1,6 +1,7 @@
 var searchData=
 [
   ['check_5fnormals_5fconsistency',['check_normals_consistency',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a0863aeabd2c35b179d01e2993c35f3fa',1,'SBGAT_CORE::ShapeModel']]],
+  ['close_5flateral_5fdockwidget',['close_lateral_dockwidget',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a78defe20f13300e6959fc69ba7f20ba4',1,'SBGAT_GUI::Mainwindow']]],
   ['common_5ffacets',['common_facets',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#ae961d1634bdfb0240167bc7ca8a01151',1,'SBGAT_CORE::Vertex']]],
   ['compute_5fdyad',['compute_dyad',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a7b4346421ec7d2bf9ea1efafb55de87e',1,'SBGAT_CORE::Edge']]],
   ['compute_5fgravity_5fslopes',['compute_gravity_slopes',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#ab8413cf369eaeef62a28b4ee8d40cabd',1,'SBGAT_CORE::DynamicAnalyses']]],
