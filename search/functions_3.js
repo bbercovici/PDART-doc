@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['highlight_5fselected_5fcells',['highlight_selected_cells',['../class_modify_area_widget.html#af175d5a3d689c23724e1b6183ebbbb74',1,'ModifyAreaWidget']]]
+  ['edge',['Edge',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a8abe18ac45d5909c9d94bc758e55412a',1,'SBGAT_CORE::Edge']]],
+  ['edgeexist',['edgeexist',['../class_adjacency___list.html#a4940d2076901a50659ca83894b945218',1,'Adjacency_List']]],
+  ['enforce_5fmesh_5fquality',['enforce_mesh_quality',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a9caf81e9f4d48ddc4bf6bd3f45147747',1,'SBGAT_CORE::ShapeModel']]]
 ];

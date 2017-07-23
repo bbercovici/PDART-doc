@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['computepgmwidget',['ComputePGMWidget',['../class_compute_p_g_m_widget.html',1,'']]]
+  ['dynamicanalyses',['DynamicAnalyses',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html',1,'SBGAT_CORE']]]
 ];

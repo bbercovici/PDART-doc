@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['open_5fcomputepgmwidget_5faction',['open_ComputePGMWidget_action',['../class_mainwindow.html#a9aeef70eac9ec5cdf4b79f840e1cb6e5',1,'Mainwindow']]],
-  ['open_5fshapeinfowidget_5faction',['open_ShapeInfoWidget_action',['../class_mainwindow.html#a79f98bec7dc7e1eaab944d566242a961',1,'Mainwindow']]]
+  ['operator_3d',['operator=',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#ad75cee4662d3cb4d01865c77fa123ccf',1,'SBGAT_CORE::RefFrame']]]
 ];

@@ -1,19 +1,9 @@
 var searchData=
 [
-  ['sbgat',['SBGAT',['../index.html',1,'']]],
-  ['save_5faction',['save_action',['../class_mainwindow.html#ac0a08dd0c3ffeec80dfa0f98f0cafdf3',1,'Mainwindow']]],
-  ['set_5faction_5fstatus',['set_action_status',['../class_mainwindow.html#a15d6f31e810051cdfbe188e9701dd32a',1,'Mainwindow']]],
-  ['set_5factors_5fvisibility',['set_actors_visibility',['../class_mainwindow.html#a0edc08a04415d8949c1633e326638819',1,'Mainwindow']]],
-  ['set_5fbackground_5fcolor_5faction',['set_background_color_action',['../class_mainwindow.html#af14345e067d60f15aaf5b3fc78cedb01',1,'Mainwindow']]],
-  ['set_5fcurrent_5fmode',['set_current_mode',['../class_interactor_style.html#ad9dcf7e1d3eade05cc9d3a08bf16217a',1,'InteractorStyle']]],
-  ['set_5fdata',['set_data',['../class_modify_area_widget.html#a3d6975cc548682e81eec8e83e5f475ba',1,'ModifyAreaWidget']]],
-  ['set_5fdensity',['set_density',['../class_asteroid.html#a7895a65fed57ed10293a483887d68988',1,'Asteroid']]],
-  ['set_5fmainwindow',['set_mainwindow',['../class_interactor_style.html#a34fc3bda17103902eb55bd6e53635997',1,'InteractorStyle']]],
-  ['set_5fscaling_5ffactor',['set_scaling_factor',['../class_mainwindow.html#a1f52acd7d6d4a441c853d7fe4f186134',1,'Mainwindow']]],
-  ['set_5fshape_5fcolor_5faction',['set_shape_color_action',['../class_mainwindow.html#a9384765a110661dba343ad0d03850ac7',1,'Mainwindow']]],
-  ['set_5fspin_5faxis',['set_spin_axis',['../class_asteroid.html#a39952711b7a3a21b94eafd4fa398b617',1,'Asteroid']]],
-  ['set_5fspin_5frate',['set_spin_rate',['../class_asteroid.html#ad6bfec4d1212f75737f8f1db54a4d1a2',1,'Asteroid']]],
-  ['setinputscalingwidget',['SetInputScalingWidget',['../class_set_input_scaling_widget.html',1,'SetInputScalingWidget'],['../class_set_input_scaling_widget.html#ac979f74298a9c6a3d0237766f2698670',1,'SetInputScalingWidget::SetInputScalingWidget()']]],
-  ['setmgs',['setmGs',['../class_asteroid.html#a34b10f37810a8bf21a18dee28f956039',1,'Asteroid']]],
-  ['shapeinfowidget',['ShapeInfoWidget',['../class_shape_info_widget.html',1,'ShapeInfoWidget'],['../class_shape_info_widget.html#a8976ddae262bed4819c5da64087b9610',1,'ShapeInfoWidget::ShapeInfoWidget()']]]
+  ['refframe',['RefFrame',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html',1,'SBGAT_CORE::RefFrame'],['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#a412c9759aa8435b4dda0b6f82de39756',1,'SBGAT_CORE::RefFrame::RefFrame(std::string name)'],['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#ac50a2fe01c8c10057989fe5e4cf001fb',1,'SBGAT_CORE::RefFrame::RefFrame(const RefFrame &amp;ref_frame)']]],
+  ['remove_5fedge',['remove_edge',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#ac9825506c907b70863295f1e163b08a4',1,'SBGAT_CORE::Facet']]],
+  ['remove_5ffacet_5fownership',['remove_facet_ownership',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#abd69e29f5100be95549a3098af2ba596',1,'SBGAT_CORE::Vertex']]],
+  ['remove_5fneighbor',['remove_neighbor',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#a1929c609a0655fde9e1b081add7ae057',1,'SBGAT_CORE::Facet']]],
+  ['removeedge',['removeedge',['../class_adjacency___list.html#a472ebd0a5b83448088959d1173fba710',1,'Adjacency_List']]],
+  ['removevertex',['removevertex',['../class_adjacency___list.html#a1794c310f08f59d85cb57b5d33caa667',1,'Adjacency_List']]]
 ];

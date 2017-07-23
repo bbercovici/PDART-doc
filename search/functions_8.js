@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['write_5fsurface_5facceleration',['write_surface_acceleration',['../class_asteroid.html#af5cef1f05977479c57522f9b43cfd23c',1,'Asteroid']]]
+  ['operator_3d',['operator=',['../class_s_b_g_a_t___c_o_r_e_1_1_ref_frame.html#ad75cee4662d3cb4d01865c77fa123ccf',1,'SBGAT_CORE::RefFrame']]]
 ];

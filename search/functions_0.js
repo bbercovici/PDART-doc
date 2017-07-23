@@ -1,7 +1,14 @@
 var searchData=
 [
-  ['close_5flateral_5fdockwidget',['close_lateral_dockwidget',['../class_mainwindow.html#a431f34684ea3a0a305fee98f0f1e4f48',1,'Mainwindow']]],
-  ['compute_5fglobal_5fpgm',['compute_global_pgm',['../class_asteroid.html#ad602c271b5875ca4e3b83e85dac4fc32',1,'Asteroid']]],
-  ['compute_5fselected_5fcells_5fnormals',['compute_selected_cells_normals',['../class_modify_area_widget.html#a72017be617c83d2fb90648f32c0efb5c',1,'ModifyAreaWidget']]],
-  ['computepgmwidget',['ComputePGMWidget',['../class_compute_p_g_m_widget.html#a46cb6b7825add7df7d62216154ef70f0',1,'ComputePGMWidget']]]
+  ['add_5fedge',['add_edge',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#a78767dcc18fcc4d08c97981a11b723ea',1,'SBGAT_CORE::Facet::add_edge()'],['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a053b9cc02bad6ea03bf64367bd53abe4',1,'SBGAT_CORE::ShapeModel::add_edge()']]],
+  ['add_5ffacet',['add_facet',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#ae14f846f069c29661b4c70eb5f1ccc1a',1,'SBGAT_CORE::ShapeModel']]],
+  ['add_5ffacet_5fownership',['add_facet_ownership',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#a8303150be766d3fc1c3c28ecbcda78cd',1,'SBGAT_CORE::Vertex']]],
+  ['add_5fframe',['add_frame',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#aaafcf33fb7764d6fec6a5c5aaba3eef3',1,'SBGAT_CORE::FrameGraph']]],
+  ['add_5fneighbor',['add_neighbor',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#a256e9d8c0b96a52d7d18bc36bc72f715',1,'SBGAT_CORE::Facet']]],
+  ['add_5ftransform',['add_transform',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#a049c7575d162ae07756a3f7cf32433e8',1,'SBGAT_CORE::FrameGraph']]],
+  ['add_5fvertex',['add_vertex',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a58f00c42e1ded62c1e050e1648f812f2',1,'SBGAT_CORE::ShapeModel']]],
+  ['addedge',['addedge',['../class_adjacency___list.html#ae736daafd94362c6490babb98babb751',1,'Adjacency_List']]],
+  ['addvertex',['addvertex',['../class_adjacency___list.html#aa12d7868abec7c406ac4f91c1baf8663',1,'Adjacency_List']]],
+  ['adjacency_5flist',['Adjacency_List',['../class_adjacency___list.html#a730c002bfea9ee4745be4b11e5ca10db',1,'Adjacency_List']]],
+  ['align_5fwith_5fprincipal_5faxes',['align_with_principal_axes',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#ada57f1da29ff3350ad2c843fbe22a740',1,'SBGAT_CORE::ShapeModel']]]
 ];

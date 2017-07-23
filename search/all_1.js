@@ -1,8 +1,12 @@
 var searchData=
 [
-  ['clear_5fall_5faction',['clear_all_action',['../class_mainwindow.html#a70de892a728e87c32e1e98b9e873b6c8',1,'Mainwindow']]],
-  ['close_5flateral_5fdockwidget',['close_lateral_dockwidget',['../class_mainwindow.html#a431f34684ea3a0a305fee98f0f1e4f48',1,'Mainwindow']]],
-  ['compute_5fglobal_5fpgm',['compute_global_pgm',['../class_asteroid.html#ad602c271b5875ca4e3b83e85dac4fc32',1,'Asteroid']]],
-  ['compute_5fselected_5fcells_5fnormals',['compute_selected_cells_normals',['../class_modify_area_widget.html#a72017be617c83d2fb90648f32c0efb5c',1,'ModifyAreaWidget']]],
-  ['computepgmwidget',['ComputePGMWidget',['../class_compute_p_g_m_widget.html',1,'ComputePGMWidget'],['../class_compute_p_g_m_widget.html#a46cb6b7825add7df7d62216154ef70f0',1,'ComputePGMWidget::ComputePGMWidget()']]]
+  ['check_5fnormals_5fconsistency',['check_normals_consistency',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a0863aeabd2c35b179d01e2993c35f3fa',1,'SBGAT_CORE::ShapeModel']]],
+  ['common_5ffacets',['common_facets',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#ae961d1634bdfb0240167bc7ca8a01151',1,'SBGAT_CORE::Vertex']]],
+  ['compute_5fdyad',['compute_dyad',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a7b4346421ec7d2bf9ea1efafb55de87e',1,'SBGAT_CORE::Edge']]],
+  ['compute_5fgravity_5fslopes',['compute_gravity_slopes',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#ab8413cf369eaeef62a28b4ee8d40cabd',1,'SBGAT_CORE::DynamicAnalyses']]],
+  ['compute_5flightcurve_5ffixed_5fspin',['compute_lightcurve_fixed_spin',['../class_s_b_g_a_t___c_o_r_e_1_1_synthetic_observations.html#a1bb743151dbecb9c16d25c4521a63a91',1,'SBGAT_CORE::SyntheticObservations']]],
+  ['compute_5fpgm_5faccelerations',['compute_pgm_accelerations',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#aa36e18beebb8f90c26990119381c9c6d',1,'SBGAT_CORE::DynamicAnalyses']]],
+  ['compute_5fpgm_5fpotentials',['compute_pgm_potentials',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#a6651c56daabae5a68d382c5abcc9afc2',1,'SBGAT_CORE::DynamicAnalyses']]],
+  ['contains',['contains',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a28f62fe6aa6c1cb5a976d607a4a01eeb',1,'SBGAT_CORE::ShapeModel']]],
+  ['convert',['convert',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#a555607b430c00b4b16301e8828a9c092',1,'SBGAT_CORE::FrameGraph']]]
 ];
