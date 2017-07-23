@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['mainwindow',['Mainwindow',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html',1,'SBGAT_GUI::Mainwindow'],['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a1394a409e4fa81fabf29e6cb856bddc5',1,'SBGAT_GUI::Mainwindow::Mainwindow()']]],
-  ['modify_5fshape_5faction',['modify_shape_action',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a21ddc15542894679502314ed68ec962a',1,'SBGAT_GUI::Mainwindow']]]
+  ['load_5fsettings_5fwindow_5faction',['load_settings_window_action',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a9a5e77a0a2fa1cbd3bd49b49e45e3910',1,'SBGAT_GUI::Mainwindow']]],
+  ['load_5fshape_5fmodel',['load_shape_model',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model_importer.html#a1422f5baf7fc6d010e1e0ed5a3a207b4',1,'SBGAT_CORE::ShapeModelImporter::load_shape_model()'],['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a5258a91ffde589ce6611e80c6d3fd2c8',1,'SBGAT_GUI::Mainwindow::load_shape_model()']]],
+  ['load_5fshape_5fmodel_5faction',['load_shape_model_action',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a1a829d267bc7c284045d1668ce7effbc',1,'SBGAT_GUI::Mainwindow']]]
 ];

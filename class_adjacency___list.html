@@ -62,6 +62,8 @@ $(function() {
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="class_adjacency___list-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">Adjacency_List&lt; T1, T2 &gt; Class Template Reference</div>  </div>
@@ -148,6 +150,27 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a1794c310f08f59d85cb57b5d33caa667"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_adjacency___list.html#a1794c310f08f59d85cb57b5d33caa667">removevertex</a> (T1 node)</td></tr>
 <tr class="memdesc:a1794c310f08f59d85cb57b5d33caa667"><td class="mdescLeft">&#160;</td><td class="mdescRight">void <a class="el" href="class_adjacency___list.html#a1794c310f08f59d85cb57b5d33caa667" title="void removevertex(T1 node) ">removevertex(T1 node)</a>  <a href="#a1794c310f08f59d85cb57b5d33caa667">More...</a><br /></td></tr>
 <tr class="separator:a1794c310f08f59d85cb57b5d33caa667"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a3bdcdffd1d958c299effaf92662884f2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_adjacency___list.html#a3bdcdffd1d958c299effaf92662884f2">_dfs</a> (T1 src, T1 dest, std::deque&lt; T1 &gt; &amp;dq, bool &amp;found)</td></tr>
+<tr class="memdesc:a3bdcdffd1d958c299effaf92662884f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">void <a class="el" href="class_adjacency___list.html#a3bdcdffd1d958c299effaf92662884f2" title="void _dfs(T1 src, T1 dest, std::deque&lt;T1&gt; &amp;dq, bool &amp;found) ">_dfs(T1 src, T1 dest, std::deque&lt;T1&gt; &amp;dq, bool &amp;found)</a>  <a href="#a3bdcdffd1d958c299effaf92662884f2">More...</a><br /></td></tr>
+<tr class="separator:a3bdcdffd1d958c299effaf92662884f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a643f717a791cb785079f31f513b2aa92"><td class="memItemLeft" align="right" valign="top"><a id="a643f717a791cb785079f31f513b2aa92"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>Adjacency_List</b> (const <a class="el" href="class_adjacency___list.html">Adjacency_List</a> &amp;rhs)</td></tr>
+<tr class="separator:a643f717a791cb785079f31f513b2aa92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61efd38d84e8f713ea321d800bdca03f"><td class="memItemLeft" align="right" valign="top"><a id="a61efd38d84e8f713ea321d800bdca03f"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>operator=</b> (const <a class="el" href="class_adjacency___list.html">Adjacency_List</a> &amp;rhs)</td></tr>
+<tr class="separator:a61efd38d84e8f713ea321d800bdca03f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ab4154ab5baaf2c35eb12fdf4d2cc3887"><td class="memItemLeft" align="right" valign="top"><a id="ab4154ab5baaf2c35eb12fdf4d2cc3887"></a>
+<a class="el" href="class_adjacency___list.html#a5f1ff6746e887afb9fd3eb33f0692e84">vertexmap</a>&#160;</td><td class="memItemRight" valign="bottom"><b>vmap</b></td></tr>
+<tr class="separator:ab4154ab5baaf2c35eb12fdf4d2cc3887"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92ceab755c148a8f0bdb6f8c3ccfcc7f"><td class="memItemLeft" align="right" valign="top"><a id="a92ceab755c148a8f0bdb6f8c3ccfcc7f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>isdirected</b></td></tr>
+<tr class="separator:a92ceab755c148a8f0bdb6f8c3ccfcc7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><h3>template&lt;class T1, class T2&gt;<br />
@@ -247,6 +270,64 @@ template&lt;class T1, class T2&gt; </div>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3bdcdffd1d958c299effaf92662884f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bdcdffd1d958c299effaf92662884f2">&#9670;&nbsp;</a></span>_dfs()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T1, class T2&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="class_adjacency___list.html">Adjacency_List</a>&lt; T1, T2 &gt;::_dfs </td>
+          <td>(</td>
+          <td class="paramtype">T1&#160;</td>
+          <td class="paramname"><em>src</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">T1&#160;</td>
+          <td class="paramname"><em>dest</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::deque&lt; T1 &gt; &amp;&#160;</td>
+          <td class="paramname"><em>dq</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool &amp;&#160;</td>
+          <td class="paramname"><em>found</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>void <a class="el" href="class_adjacency___list.html#a3bdcdffd1d958c299effaf92662884f2" title="void _dfs(T1 src, T1 dest, std::deque&lt;T1&gt; &amp;dq, bool &amp;found) ">_dfs(T1 src, T1 dest, std::deque&lt;T1&gt; &amp;dq, bool &amp;found)</a> </p>
+<p>Recursively defined depth-first-search algorithm. The path found is stored in the deque. If no path exists, the function will not modify the dq (i.e. it will remain empty if it was passed in empty).</p>
+<p>Neccesary conditions for path retrieval:</p>
+<p>1) Graph must be connected (path must exist between src &amp; dest)</p>
+<p>Shortest path gaurenteed when:</p>
+<p>1) Only one path exists &ndash; different algorithm can be implemented to accomodate multiple paths &ndash; a variation of breadth-first-search</p>
+<p>** This will work for all trees! </p>
+
+</div>
+</div>
 <a id="ae736daafd94362c6490babb98babb751"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae736daafd94362c6490babb98babb751">&#9670;&nbsp;</a></span>addedge()</h2>
 
@@ -810,7 +891,7 @@ template&lt;class T1, class T2&gt; </div>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>SbgatCore/include/<a class="el" href="_adjacency___list_8hpp_source.html">Adjacency_List.hpp</a></li>
+<li>/Users/bbercovici/GDrive/CUBoulder/Research/code/SBGAT/SbgatCore/include/<a class="el" href="_adjacency___list_8hpp_source.html">Adjacency_List.hpp</a></li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

@@ -1,13 +1,15 @@
 var searchData=
 [
-  ['check_5fnormals_5fconsistency',['check_normals_consistency',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a0863aeabd2c35b179d01e2993c35f3fa',1,'SBGAT_CORE::ShapeModel']]],
-  ['close_5flateral_5fdockwidget',['close_lateral_dockwidget',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a78defe20f13300e6959fc69ba7f20ba4',1,'SBGAT_GUI::Mainwindow']]],
-  ['common_5ffacets',['common_facets',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#ae961d1634bdfb0240167bc7ca8a01151',1,'SBGAT_CORE::Vertex']]],
-  ['compute_5fdyad',['compute_dyad',['../class_s_b_g_a_t___c_o_r_e_1_1_edge.html#a7b4346421ec7d2bf9ea1efafb55de87e',1,'SBGAT_CORE::Edge']]],
-  ['compute_5fgravity_5fslopes',['compute_gravity_slopes',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#ab8413cf369eaeef62a28b4ee8d40cabd',1,'SBGAT_CORE::DynamicAnalyses']]],
-  ['compute_5flightcurve_5ffixed_5fspin',['compute_lightcurve_fixed_spin',['../class_s_b_g_a_t___c_o_r_e_1_1_synthetic_observations.html#a1bb743151dbecb9c16d25c4521a63a91',1,'SBGAT_CORE::SyntheticObservations']]],
-  ['compute_5fpgm_5faccelerations',['compute_pgm_accelerations',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#aa36e18beebb8f90c26990119381c9c6d',1,'SBGAT_CORE::DynamicAnalyses']]],
-  ['compute_5fpgm_5fpotentials',['compute_pgm_potentials',['../class_s_b_g_a_t___c_o_r_e_1_1_dynamic_analyses.html#a6651c56daabae5a68d382c5abcc9afc2',1,'SBGAT_CORE::DynamicAnalyses']]],
-  ['contains',['contains',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a28f62fe6aa6c1cb5a976d607a4a01eeb',1,'SBGAT_CORE::ShapeModel']]],
-  ['convert',['convert',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#a555607b430c00b4b16301e8828a9c092',1,'SBGAT_CORE::FrameGraph']]]
+  ['add_5fedge',['add_edge',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#a78767dcc18fcc4d08c97981a11b723ea',1,'SBGAT_CORE::Facet::add_edge()'],['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a053b9cc02bad6ea03bf64367bd53abe4',1,'SBGAT_CORE::ShapeModel::add_edge()']]],
+  ['add_5ffacet',['add_facet',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#ae14f846f069c29661b4c70eb5f1ccc1a',1,'SBGAT_CORE::ShapeModel']]],
+  ['add_5ffacet_5fownership',['add_facet_ownership',['../class_s_b_g_a_t___c_o_r_e_1_1_vertex.html#a8303150be766d3fc1c3c28ecbcda78cd',1,'SBGAT_CORE::Vertex']]],
+  ['add_5fframe',['add_frame',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#aaafcf33fb7764d6fec6a5c5aaba3eef3',1,'SBGAT_CORE::FrameGraph']]],
+  ['add_5fneighbor',['add_neighbor',['../class_s_b_g_a_t___c_o_r_e_1_1_facet.html#a256e9d8c0b96a52d7d18bc36bc72f715',1,'SBGAT_CORE::Facet']]],
+  ['add_5fshape_5fto_5ftable_5fwidget',['add_shape_to_table_widget',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#ac2ce787b57dee500dd771a862eaba61d',1,'SBGAT_GUI::Mainwindow']]],
+  ['add_5ftransform',['add_transform',['../class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html#a049c7575d162ae07756a3f7cf32433e8',1,'SBGAT_CORE::FrameGraph']]],
+  ['add_5fvertex',['add_vertex',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#a58f00c42e1ded62c1e050e1648f812f2',1,'SBGAT_CORE::ShapeModel']]],
+  ['addedge',['addedge',['../class_adjacency___list.html#ae736daafd94362c6490babb98babb751',1,'Adjacency_List']]],
+  ['addvertex',['addvertex',['../class_adjacency___list.html#aa12d7868abec7c406ac4f91c1baf8663',1,'Adjacency_List']]],
+  ['adjacency_5flist',['Adjacency_List',['../class_adjacency___list.html#a730c002bfea9ee4745be4b11e5ca10db',1,'Adjacency_List']]],
+  ['align_5fwith_5fprincipal_5faxes',['align_with_principal_axes',['../class_s_b_g_a_t___c_o_r_e_1_1_shape_model.html#ada57f1da29ff3350ad2c843fbe22a740',1,'SBGAT_CORE::ShapeModel']]]
 ];
