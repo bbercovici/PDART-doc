@@ -1,4 +1,0 @@
-<map id="SBGAT_CORE::ShapeModel" name="SBGAT_CORE::ShapeModel">
-<area shape="rect" id="node2" href="$class_s_b_g_a_t___c_o_r_e_1_1_frame_graph.html" title="SBGAT_CORE::FrameGraph" alt="" coords="311,32,506,57"/>
-<area shape="rect" id="node3" href="$class_adjacency___list.html" title="Adjacency_List\&lt; std\l::shared_ptr\&lt; SBGAT\l_CORE::RefFrame \&gt;, std\l::pair\&lt; std::string, std\l::string \&gt; \&gt;" alt="" coords="5,5,176,84"/>
-</map>
