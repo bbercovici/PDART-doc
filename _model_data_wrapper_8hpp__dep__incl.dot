@@ -1,0 +1,20 @@
+digraph "/Users/bbercovici/GDrive/CUBoulder/Research/code/SBGAT/SbgatGUI/include/ModelDataWrapper.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node5 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/ModelData\lWrapper.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/Mainwindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_mainwindow_8hpp.html",tooltip="Stores definition of the Mainwindow class. "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/Interactor\lStyle.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_interactor_style_8hpp.html"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/MoveAlong\lTrajectoryWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_move_along_trajectory_window_8hpp.html"];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/Rendering\lPropertiesWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_rendering_properties_window_8hpp.html"];
+  Node6 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/Settings\lWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_settings_window_8hpp.html"];
+  Node6 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/SHARMWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_h_a_r_m_window_8hpp.html"];
+  Node6 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGUI/include/YORPWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_y_o_r_p_window_8hpp.html"];
+}
