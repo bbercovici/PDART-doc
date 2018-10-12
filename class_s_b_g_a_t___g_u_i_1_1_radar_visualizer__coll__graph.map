@@ -1,6 +1,0 @@
-<map id="SBGAT_GUI::RadarVisualizer" name="SBGAT_GUI::RadarVisualizer">
-<area shape="rect" id="node4" href="$class_s_b_g_a_t___g_u_i_1_1_obs_window.html" title="ObsWindow class defining a window where a user can generate simulated observations involving (optiona..." alt="" coords="136,220,312,245"/>
-<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_radar_window.html" title="RadarWindow class defining a window where a user can generate emulated radar data simulating the outp..." alt="" coords="122,295,310,320"/>
-<area shape="rect" id="node5" href="$class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html" title="ShapePropertiesWidget class defining a widget where a user can specify the values taken by the physic..." alt="" coords="127,80,330,119"/>
-<area shape="rect" id="node7" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application. " alt="" coords="354,87,532,112"/>
-</map>
