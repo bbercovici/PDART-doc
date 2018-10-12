@@ -1,0 +1,4 @@
+<map id="SBGAT_GUI::ObsWindow" name="SBGAT_GUI::ObsWindow">
+<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_l_c_window.html" title="LCWindow class defining a window where a user can generate lightcurve data. " alt="" coords="5,152,174,177"/>
+<area shape="rect" id="node4" href="$class_s_b_g_a_t___g_u_i_1_1_radar_window.html" title="RadarWindow class defining a window where a user can generate emulated radar data simulating the outp..." alt="" coords="198,152,386,177"/>
+</map>
