@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['position_5ffrom_5ffile_5fbutton',['position_from_file_button',['../class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html#a2ca5b26988f902af2033c0b47b38fd78',1,'SBGAT_GUI::ShapePropertiesWidget']]],
-  ['position_5ffrom_5fkeplerian_5fbutton',['position_from_keplerian_button',['../class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html#a697f447e79c32dd58c69a19cd3e580f2',1,'SBGAT_GUI::ShapePropertiesWidget']]],
-  ['prop_5ftable',['prop_table',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a629cc9d9d879da0c5750205d9341af3d',1,'SBGAT_GUI::Mainwindow']]]
+  ['ecc_5fsbox',['ecc_sbox',['../class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html#aab9f9f60dcf8407770447ccc8f1fa6f3',1,'SBGAT_GUI::ShapePropertiesWidget']]],
+  ['edge_5fdyads',['edge_dyads',['../class_s_b_g_a_t_polyhedron_gravity_model.html#ad2b7a8e7b6575d685a775c4f5cc43641',1,'SBGATPolyhedronGravityModel']]],
+  ['edges',['edges',['../class_s_b_g_a_t_polyhedron_gravity_model.html#a00c9fb8bf682d44ca70aebdb4997de79',1,'SBGATPolyhedronGravityModel']]]
 ];

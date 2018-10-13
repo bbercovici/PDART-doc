@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['omp_5fflags_2ehpp',['OMP_flags.hpp',['../_o_m_p__flags_8hpp.html',1,'']]]
+  ['lcvisualizer_2ehpp',['LCVisualizer.hpp',['../_l_c_visualizer_8hpp.html',1,'']]],
+  ['lcwindow_2ehpp',['LCWindow.hpp',['../_l_c_window_8hpp.html',1,'']]]
 ];

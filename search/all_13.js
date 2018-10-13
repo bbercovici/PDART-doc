@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['vertex',['vertex',['../struct_adjacency___list_1_1vertex.html',1,'Adjacency_List']]],
-  ['vertex_5ftype',['vertex_type',['../class_adjacency___list.html#a36f797555285f40b0320eb745774e127',1,'Adjacency_List']]],
-  ['vertexexists',['vertexexists',['../class_adjacency___list.html#a5fef72d4ecb4cfa5438a653e1e58e91b',1,'Adjacency_List']]],
-  ['vertexmap',['vertexmap',['../class_adjacency___list.html#a5f1ff6746e887afb9fd3eb33f0692e84',1,'Adjacency_List']]]
+  ['toggle_5fattitude_5fvisibility',['toggle_attitude_visibility',['../class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html#ace36c2f9303aa18559b555127d9565fe',1,'SBGAT_GUI::ShapePropertiesWidget']]],
+  ['toggle_5fposition_5fvisibility',['toggle_position_visibility',['../class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html#aeb7b825fbf5bec179700a913fc2c24cd',1,'SBGAT_GUI::ShapePropertiesWidget']]],
+  ['toggle_5fprop_5fvisibility',['toggle_prop_visibility',['../class_s_b_g_a_t___g_u_i_1_1_mainwindow.html#a4a81d8fb3aa1e52f5bf446c0d038dfa6',1,'SBGAT_GUI::Mainwindow']]],
+  ['totalmass',['totalMass',['../class_s_b_g_a_t_spherical_harmo.html#a90cd173047adc19a6e2018f04eb83be1',1,'SBGATSphericalHarmo']]]
 ];

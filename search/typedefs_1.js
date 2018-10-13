@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['vertex_5ftype',['vertex_type',['../class_adjacency___list.html#a36f797555285f40b0320eb745774e127',1,'Adjacency_List']]],
-  ['vertexmap',['vertexmap',['../class_adjacency___list.html#a5f1ff6746e887afb9fd3eb33f0692e84',1,'Adjacency_List']]]
+  ['edge',['edge',['../struct_adjacency___list_1_1vertex.html#ae7b0c12098d7a0167aba39f2ce1c461c',1,'Adjacency_List::vertex::edge()'],['../class_adjacency___list.html#ad2d0ad868f211a253fc7f5fc09f29b65',1,'Adjacency_List::edge()']]]
 ];

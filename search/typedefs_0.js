@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['edge',['edge',['../class_adjacency___list.html#ad2d0ad868f211a253fc7f5fc09f29b65',1,'Adjacency_List']]]
+  ['datamap',['DataMap',['../namespace_s_b_g_a_t___g_u_i.html#ab241a472b909070057b89916b570e8b2',1,'SBGAT_GUI']]]
 ];
