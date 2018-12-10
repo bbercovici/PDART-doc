@@ -1,0 +1,40 @@
+digraph "/Users/bbercovici/GDrive/CUBoulder/Research/code/SBGAT/SbgatCore/include/SbgatCore/SBGATRefFrame.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/include\l/SbgatCore/SBGATRefFrame.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATRef\lFrame.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_ref_frame_8cpp.html"];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/include\l/SbgatCore/SBGATFrameGraph.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_frame_graph_8hpp.html",tooltip="Defines the SBGATFrameGraph class. "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATFrame\lGraph.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_frame_graph_8cpp.html"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/Mainwindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_mainwindow_8hpp.html",tooltip="Stores definition of the Mainwindow class. "];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/Interactor\lStyle.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_interactor_style_8hpp.html"];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/ObsWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_obs_window_8hpp.html"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/LCWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_l_c_window_8hpp.html"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/LCVisualizer.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_l_c_visualizer_8hpp.html"];
+  Node10 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/RadarWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_radar_window_8hpp.html"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/RadarVisualizer.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_radar_visualizer_8hpp.html"];
+  Node10 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/ShapeProperties\lWidget.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_shape_properties_widget_8hpp.html"];
+  Node8 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/Rendering\lPropertiesWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_rendering_properties_window_8hpp.html"];
+  Node8 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/SelectMapper\lWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_select_mapper_window_8hpp.html"];
+  Node8 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/Settings\lWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_settings_window_8hpp.html"];
+  Node8 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/SHARMWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_h_a_r_m_window_8hpp.html"];
+  Node8 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/SurfacePGMWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_surface_p_g_m_window_8hpp.html"];
+  Node8 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatGui/include/YORPWindow.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_y_o_r_p_window_8hpp.html"];
+}
