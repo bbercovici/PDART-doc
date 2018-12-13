@@ -1,0 +1,12 @@
+digraph "/Users/bbercovici/GDrive/CUBoulder/Research/code/SBGAT/SbgatCore" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_c357ea99558ae0fdef189d31bc2a964b {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_c357ea99558ae0fdef189d31bc2a964b.html"];
+    dir_c357ea99558ae0fdef189d31bc2a964b [shape=plaintext label="SbgatCore"];
+    dir_2389dcea11bcbb8c6612ca3abf02c81e [shape=box label="include" color="red" fillcolor="white" style="filled" URL="dir_2389dcea11bcbb8c6612ca3abf02c81e.html"];
+    dir_b14475b677ac2a79f3a86f3e56057971 [shape=box label="source" color="black" fillcolor="white" style="filled" URL="dir_b14475b677ac2a79f3a86f3e56057971.html"];
+  }
+  dir_b14475b677ac2a79f3a86f3e56057971->dir_2389dcea11bcbb8c6612ca3abf02c81e [headlabel="15", labeldistance=1.5 headhref="dir_000003_000001.html"];
+}
