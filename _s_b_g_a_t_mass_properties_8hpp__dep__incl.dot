@@ -1,0 +1,19 @@
+digraph "/Users/bbercovici/GDrive/CUBoulder/Research/code/SBGAT/SbgatCore/include/SbgatCore/SBGATMassProperties.hpp"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node4 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/include\l/SbgatCore/SBGATMassProperties.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATMass\lProperties.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_mass_properties_8cpp.html",tooltip=" "];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATObs.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_obs_8cpp.html",tooltip=" "];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATObs\lLightcurve.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_obs_lightcurve_8cpp.html",tooltip=" "];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATSpherical\lHarmo.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_spherical_harmo_8cpp.html",tooltip=" "];
+  Node4 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/include\l/SbgatCore/SBGATPolyhedronGravityModel.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_polyhedron_gravity_model_8hpp.html",tooltip=" "];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/Users/bbercovici/GDrive\l/CUBoulder/Research/code\l/SBGAT/SbgatCore/source/SBGATPolyhedron\lGravityModel.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$_s_b_g_a_t_polyhedron_gravity_model_8cpp.html",tooltip=" "];
+}

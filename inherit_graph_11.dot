@@ -1,0 +1,24 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="vtkPolyDataAlgorithm",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="SBGATMassProperties",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_mass_properties.html",tooltip="Computes volume, area, shape index, center of mass, inertia tensor and principal axes of a polyhedral..."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SBGATObjWriter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_obj_writer.html",tooltip="Write a Wavefront OBJ (ASCII) file."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SBGATObs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_obs.html",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="SBGATObsLightcurve",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_obs_lightcurve.html",tooltip="Defines the SBGATObsLightcurve class."];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SBGATObsRadar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_obs_radar.html",tooltip="Computes range/range-rate Doppler images over the surface of provided small body."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SBGATPolyhedronGravityModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_polyhedron_gravity_model.html",tooltip="Evaluation of potential, acceleration caused by a constant-density polyhedron."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SBGATSphericalHarmo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_spherical_harmo.html",tooltip="Computes/evaluates the outer spherical harmonics expansion of the exterior gravity field around a con..."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SBGATSrpYorp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_s_b_g_a_t_srp_yorp.html",tooltip="Computation of Fourier decomposition of force/torques caused by SRP over a shape model."];
+}
