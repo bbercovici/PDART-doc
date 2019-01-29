@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,129,154,155"/>
+<area shape="rect" id="node2" href="$class_s_b_g_a_t_mass_properties.html" title="Computes volume, area, shape index, center of mass, inertia tensor and principal axes of a polyhedral..." alt="" coords="229,5,387,31"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t_obj_writer.html" title="Write a Wavefront OBJ (ASCII) file." alt="" coords="247,55,369,80"/>
+<area shape="rect" id="node4" href="$class_s_b_g_a_t_obs.html" title=" " alt="" coords="263,104,353,129"/>
+<area shape="rect" id="node7" href="$class_s_b_g_a_t_polyhedron_gravity_model.html" title="Evaluation of potential, acceleration caused by a constant&#45;density polyhedron." alt="" coords="202,153,414,179"/>
+<area shape="rect" id="node8" href="$class_s_b_g_a_t_spherical_harmo.html" title="Computes/evaluates the outer spherical harmonics expansion of the exterior gravity field around a con..." alt="" coords="227,203,388,228"/>
+<area shape="rect" id="node9" href="$class_s_b_g_a_t_srp_yorp.html" title="Computation of Fourier decomposition of force/torques caused by SRP over a shape model." alt="" coords="251,252,365,277"/>
+<area shape="rect" id="node5" href="$class_s_b_g_a_t_obs_lightcurve.html" title="Defines the SBGATObsLightcurve class." alt="" coords="462,80,613,105"/>
+<area shape="rect" id="node6" href="$class_s_b_g_a_t_obs_radar.html" title="Computes range/range&#45;rate Doppler images over the surface of provided small body." alt="" coords="474,129,600,155"/>
+</map>
