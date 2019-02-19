@@ -1,0 +1,6 @@
+<map id="SBGATObs" name="SBGATObs">
+<area shape="rect" id="node1" title=" " alt="" coords="117,79,207,104"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t_obs_lightcurve.html" title="Defines the SBGATObsLightcurve class." alt="" coords="5,152,157,177"/>
+<area shape="rect" id="node4" href="$class_s_b_g_a_t_obs_radar.html" title="Computes range/range&#45;rate Doppler images over the surface of provided small body." alt="" coords="181,152,307,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="88,5,237,31"/>
+</map>
