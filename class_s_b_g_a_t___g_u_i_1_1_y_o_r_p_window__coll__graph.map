@@ -1,0 +1,6 @@
+<map id="SBGAT_GUI::YORPWindow" name="SBGAT_GUI::YORPWindow">
+<area shape="rect" id="node1" title="YORPWindow class defining a window where a user can specificy the inputs to a YORP coefficients compu..." alt="" coords="5,167,195,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="44,80,113,105"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application." alt="" coords="138,80,315,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="173,5,281,31"/>
+</map>
