@@ -1,9 +1,0 @@
-<map id="SBGAT_GUI::LCWindow" name="SBGAT_GUI::LCWindow">
-<area shape="rect" id="node1" title="LCWindow class defining a window where a user can generate lightcurve data." alt="" coords="116,295,284,320"/>
-<area shape="rect" id="node2" href="$class_s_b_g_a_t___g_u_i_1_1_obs_window.html" title="ObsWindow class defining a window where a user can generate simulated observations involving (optiona..." alt="" coords="112,220,288,245"/>
-<area shape="rect" id="node3" title=" " alt="" coords="5,87,75,112"/>
-<area shape="rect" id="node4" href="$class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html" title="ShapePropertiesWidget class defining a widget where a user can specify the values taken by the physic..." alt="" coords="98,80,302,119"/>
-<area shape="rect" id="node5" title=" " alt="" coords="154,5,246,31"/>
-<area shape="rect" id="node6" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application." alt="" coords="326,87,503,112"/>
-<area shape="rect" id="node7" title=" " alt="" coords="361,5,469,31"/>
-</map>
