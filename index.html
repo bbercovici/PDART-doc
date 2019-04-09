@@ -95,11 +95,32 @@ make
 make install
 </pre><p>to apply the update (if any).</p>
 <h2>Changelog</h2>
+<h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/2.04.2">SBGAT 2.04.2</a></h3>
+<h4>Bug fixes:</h4>
+<ul>
+<li><code>SBGATMassPropertiesUQ</code>'s master script has been corrected with the proper SIM_PREFIX</li>
+</ul>
+<h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/2.04.1">SBGAT 2.04.1</a></h3>
+<h4>New</h4>
+<ul>
+<li>Introduced two new base classes, <code>SBGATFilter</code> and <code>SBGATFilterUQ</code>, the latter being tailored for uncertainty quantification in the considered geophysical properties</li>
+<li>A Python script producing shape "slices" has been added</li>
+</ul>
+<h3>Improvement</h3>
+<ul>
+<li><code>SBGATMassPropertiesUQ</code> now inherits from <code>SBGATFilter</code></li>
+<li><code>SBGATPolyhedronGravityModelUQ</code> now inherits from <code>SBGATMassPropertiesUQ</code></li>
+<li>Clicking on a facet in SbgatGui now results in displaying the facet center coordinates.- Populated <code>Examples</code> folder with illustrative snippets for <code>SBGATPolyhedronGravityModelUQ</code> and <code>SBGATMassPropertiesUQ</code>. These tests should be run from a Python 3 process (<code>run ../master_script.py</code>) called from their <code>build</code> directory.</li>
+</ul>
+<h2>Regression</h2>
+<ul>
+<li>As of April 7th 2019, OpenMP is no longer found by CMake on Mac.</li>
+</ul>
 <h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/2.02.4">SBGAT 2.02.4</a></h3>
-<h3>New</h3>
+<h4>New</h4>
 <ul>
 <li>SBGAT 2.02.4 introduces <code>SBGATPolyhedronGravityModelUQ</code>, a class dedicated to uncertainty quantification in Polyhedron Gravity potentials and accelerations arising from a stochastic shape. This class enables the evaluation of the variance in the potential and covariance in the acceleration at any point in space (excluding shape edges)</li>
-<li>Expanded the Tests suite.</li>
+<li>Expanded and consolidated the Tests suite.</li>
 </ul>
 <h4>Improvements</h4>
 <ul>
@@ -108,9 +129,10 @@ make install
 <li>Similarly, any method from the aforementioned filters expects an input position to be expressed in meters.</li>
 <li>Classes documentation has been updated to reflect this change</li>
 <li>Overall consistency is enforced by manually specifying the unit in which a given shape model is specified through the use of <code>SetScaleMeters</code> or <code>SetScaleKiloMeters</code>. This way, a shape whose coordinates are expressed in kilometers can be connected to an instance of <code>SBGATMassproperties</code> or any other filter and used in a completely transparent manner as long as <code>SetScaleKiloMeters</code> is called on the filter before <code>Update()</code></li>
-<li><code>SBGATMassproperties</code>, <code>SBGATSphericalHarmo</code> and <code>SBGATPolyhedronGravityModel</code> are initialized by default for a shape whose length unit are in meters (i.e the <code>scaleFactor</code> member is set to <code>1</code> by default, and set to <code>1000</code> if <code>SetScaleKiloMeters()</code> is called)</li>
+<li><code>SBGATMassproperties</code>, <code>SBGATSphericalHarmo</code> and <code>SBGATPolyhedronGravityModel</code> are initialized by default for a shape whose length units are in meters (i.e the <code>scaleFactor</code> member is set to <code>1</code> by default, and set to <code>1000</code> if <code>SetScaleKiloMeters()</code> is called)</li>
 </ul>
 </li>
+<li>NO MORE "UPDATE()" FROM GETTERS</li>
 <li>Work is in progress to revamp the main page of the doxygen documentation</li>
 </ul>
 <h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/2.02.3">SBGAT 2.02.3</a></h3>
@@ -168,7 +190,7 @@ make install
 <li>Several GUI minors bug fixes</li>
 </ul>
 <h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/2.01.1">SBGAT 2.01.1</a></h3>
-<h3>New:</h3>
+<h4>New:</h4>
 <ul>
 <li>Facets can now be individually selected in <code>SbgatGui</code> by clicking on them. If the surface PGM of the selected shape is available, the results for the selected facet will be shown in the console</li>
 </ul>
@@ -182,7 +204,7 @@ make install
 <li>Fixed bug in <code>SbgatCore</code> that was due to an unecessary rescaling of the computed potentials and accelerations within <code>SbgatCore::ComputeSurfacePGM</code>. This bug was manifesting itself when calling <code>SbgatCore::ComputeSurfacePGM</code> with a shape model whose coordinates were expressed in kilometers. This bug was not affecting <code>SbgatGui</code> since it automatically rescales input shapes to meters upon loading.</li>
 </ul>
 <h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/1.12.2">SBGAT 1.12.2</a></h3>
-<h3>New:</h3>
+<h4>New:</h4>
 <ul>
 <li>A previously evaluated surface Polyhedron Gravity Model can now be loaded from a JSON file via the static method <code>SBGATPolyhedronGravityModel::LoadSurfacePGM</code></li>
 <li><code>SbgatGui</code> can now overlay previously computed surface PGM results over a corresponding shape model (aka featuring the same number of facets as the one used to generate the surface PGM)</li>
@@ -199,7 +221,7 @@ make install
 </li>
 </ul>
 <h3><a href="https://github.com/bbercovici/SBGAT/releases/tag/1.12.1">SBGAT 1.12.1</a></h3>
-<h3>New:</h3>
+<h4>New:</h4>
 <ul>
 <li>The gravity-gradient matrix deriving from the polyhedron gravity model can now be evaluated</li>
 <li>The evaluation of the surface polyhedron gravity model can now be saved to a JSON file through <code>SBGATPolyhedronGravityModel::SaveSurfacePGM</code></li>

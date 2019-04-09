@@ -1,7 +1,10 @@
 var searchData=
 [
+  ['sbgatfilter_2ecpp',['SBGATFilter.cpp',['../_s_b_g_a_t_filter_8cpp.html',1,'']]],
+  ['sbgatfilteruq_2ecpp',['SBGATFilterUQ.cpp',['../_s_b_g_a_t_filter_u_q_8cpp.html',1,'']]],
   ['sbgatframegraph_2ecpp',['SBGATFrameGraph.cpp',['../_s_b_g_a_t_frame_graph_8cpp.html',1,'']]],
   ['sbgatmassproperties_2ecpp',['SBGATMassProperties.cpp',['../_s_b_g_a_t_mass_properties_8cpp.html',1,'']]],
+  ['sbgatmasspropertiesuq_2ecpp',['SBGATMassPropertiesUQ.cpp',['../_s_b_g_a_t_mass_properties_u_q_8cpp.html',1,'']]],
   ['sbgatobjwriter_2ecpp',['SBGATObjWriter.cpp',['../_s_b_g_a_t_obj_writer_8cpp.html',1,'']]],
   ['sbgatobs_2ecpp',['SBGATObs.cpp',['../_s_b_g_a_t_obs_8cpp.html',1,'']]],
   ['sbgatobslightcurve_2ecpp',['SBGATObsLightcurve.cpp',['../_s_b_g_a_t_obs_lightcurve_8cpp.html',1,'']]],
