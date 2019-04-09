@@ -1,0 +1,8 @@
+<map id="SBGAT_GUI::ObsWindow" name="SBGAT_GUI::ObsWindow">
+<area shape="rect" id="node1" title="ObsWindow class defining a window where a user can generate simulated observations involving (optiona..." alt="" coords="112,220,288,245"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,75,112"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html" title="ShapePropertiesWidget class defining a widget where a user can specify the values taken by the physic..." alt="" coords="98,80,302,119"/>
+<area shape="rect" id="node4" title=" " alt="" coords="154,5,246,31"/>
+<area shape="rect" id="node5" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application." alt="" coords="326,87,503,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="361,5,469,31"/>
+</map>
