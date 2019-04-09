@@ -1,0 +1,5 @@
+<map id="SBGAT_GUI::LCWindow" name="SBGAT_GUI::LCWindow">
+<area shape="rect" id="node1" title="LCWindow class defining a window where a user can generate lightcurve data." alt="" coords="9,152,178,177"/>
+<area shape="rect" id="node2" href="$class_s_b_g_a_t___g_u_i_1_1_obs_window.html" title="ObsWindow class defining a window where a user can generate simulated observations involving (optiona..." alt="" coords="5,79,181,104"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,5,128,31"/>
+</map>
