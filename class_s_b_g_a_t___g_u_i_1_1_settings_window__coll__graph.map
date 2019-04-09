@@ -1,0 +1,6 @@
+<map id="SBGAT_GUI::SettingsWindow" name="SBGAT_GUI::SettingsWindow">
+<area shape="rect" id="node1" title="SettingsWindow class enabling preferences setting." alt="" coords="5,167,205,192"/>
+<area shape="rect" id="node2" title=" " alt="" coords="49,80,119,105"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application." alt="" coords="143,80,321,105"/>
+<area shape="rect" id="node4" title=" " alt="" coords="178,5,286,31"/>
+</map>
