@@ -1,0 +1,5 @@
+<map id="SBGATFilterUQ" name="SBGATFilterUQ">
+<area shape="rect" id="node1" title="virtual class serving as the base of dedicated uncertainty quantification classes in SBGAT" alt="" coords="64,5,179,31"/>
+<area shape="rect" id="node2" href="$class_s_b_g_a_t_mass_properties_u_q.html" title="Evaluation of the formal uncertainty in the volume, center of mass, inertia tensor parametrization fr..." alt="" coords="32,79,210,104"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t_polyhedron_gravity_model_u_q.html" title="Evaluation of the formal uncertainty in the potential (variance), acceleration (covariance) caused by..." alt="" coords="5,152,237,177"/>
+</map>

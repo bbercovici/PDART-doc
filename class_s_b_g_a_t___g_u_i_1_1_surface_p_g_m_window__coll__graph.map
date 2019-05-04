@@ -1,0 +1,9 @@
+<map id="SBGAT_GUI::SurfacePGMWindow" name="SBGAT_GUI::SurfacePGMWindow">
+<area shape="rect" id="node1" title="SurfacePGMWindow class defining a window where a user evaluate the Polyhedron Gravity Model of a shap..." alt="" coords="573,91,801,116"/>
+<area shape="rect" id="node3" href="$class_s_b_g_a_t___g_u_i_1_1_shape_uncertainty_widget.html" title="ShapeUncertaintyWidget class defining a widget where a user can specify the uncertainty affecting the..." alt="" coords="1013,27,1223,65"/>
+<area shape="rect" id="node2" title=" " alt="" coords="230,101,299,127"/>
+<area shape="rect" id="node4" title=" " alt="" coords="13,5,105,31"/>
+<area shape="rect" id="node5" href="$class_s_b_g_a_t___g_u_i_1_1_shape_properties_widget.html" title="ShapePropertiesWidget class defining a widget where a user can specify the values taken by the physic..." alt="" coords="163,39,366,77"/>
+<area shape="rect" id="node6" href="$class_s_b_g_a_t___g_u_i_1_1_mainwindow.html" title="Mainwindow class. This is the main class of the SbgatGUI application." alt="" coords="176,151,353,176"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,151,113,176"/>
+</map>
