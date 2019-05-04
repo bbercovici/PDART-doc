@@ -1,6 +1,0 @@
-<map id="SBGATFilter" name="SBGATFilter">
-<area shape="rect" id="node1" title="A generic class serving a a shape container and providing a few useful methods to access the shape&#39;s ..." alt="" coords="64,79,159,104"/>
-<area shape="rect" id="node3" href="$class_s_b_g_a_t_mass_properties.html" title="Computes volume, area, shape index, center of mass, inertia tensor and principal axes of a polyhedral..." alt="" coords="32,152,190,177"/>
-<area shape="rect" id="node2" title=" " alt="" coords="37,5,185,31"/>
-<area shape="rect" id="node4" href="$class_s_b_g_a_t_polyhedron_gravity_model.html" title="Evaluation of potential, acceleration caused by a constant&#45;density polyhedron." alt="" coords="5,225,217,251"/>
-</map>
